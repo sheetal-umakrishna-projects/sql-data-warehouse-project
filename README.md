@@ -69,7 +69,7 @@ data-warehouse-project/
 ```
 ---
 
-# 🎯 Skills Demonstrated
+### 🎯 Skills Demonstrated
 - **Data Warehousing**
 - **SQL Development (MySQL)**
 - **ETL Pipeline Design**
@@ -79,7 +79,7 @@ data-warehouse-project/
 
 ---
 
-# 📈 What I Learned
+### 📈 What I Learned
 - Designing layered data architectures (**Bronze → Silver → Gold**)
 - Building ETL pipelines in **MySQL**
 - Structuring **analytical data models**
@@ -87,7 +87,7 @@ data-warehouse-project/
 
 ---
 
-# 🚧 Future Improvements
+### 🚧 Future Improvements
 - Automate pipelines with **scheduling tools**
 - Integrate **BI tools or dashboards** (Power BI / Tableau)
 - Expand the solution with **larger datasets**
